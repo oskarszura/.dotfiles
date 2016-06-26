@@ -1,3 +1,3 @@
 For now manually symlinking
 
-```ln -sv “~/.dotfiles/.profile” ~```
+```ln -sv ~/.dotfiles/.profile ~```
