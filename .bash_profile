@@ -6,4 +6,5 @@ export NVM_DIR="/Users/oszura/.nvm"
 export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin
 export GOPATH=$HOME/gowork
+export PATH=$PATH:$GOPATH/bin
 export PORT=3222
