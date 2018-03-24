@@ -8,3 +8,4 @@ export PATH=$PATH:$GOROOT/bin
 export GOPATH=$HOME/gowork
 export PATH=$PATH:$GOPATH/bin
 export PORT=3222
+export SERIAL_PORT=/dev/tty.usbmodem1411
