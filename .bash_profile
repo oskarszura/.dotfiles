@@ -5,6 +5,8 @@ export NVM_DIR="/Users/oszura/.nvm"
 # golang
 export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin
+export PATH=$PATH:$GOPATH/bin
 export GOPATH=$HOME/gowork
 export PATH=$PATH:$GOPATH/bin
 export PORT=3222
+export SERIAL_PORT=/dev/tty.usbmodem1411
