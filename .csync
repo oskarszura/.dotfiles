@@ -1,8 +1,6 @@
-/Users/oszura/gowork/src/github.com/smart-evolution/smarthome;pi@192.168.1.3:/home/pi/gowork/src/github.com/smart-evolution/smarthome;sync;smarthome
-/Users/oszura/gowork/src/github.com/coda-it/gowebserver;pi@192.168.1.3:/home/pi/gowork/src/github.com/coda-it/gowebserver;sync;smarthome
-/Users/oszura/gowork/;admin@192.168.1.11:/share/homes/admin/projects/gowork;sync;nas
-/Users/oszura/WebstormProjects/;admin@192.168.1.11:/share/homes/admin/projects/WebstormProjects;sync;nas
-/Users/oszura/Documents/EAGLE/projects;admin@192.168.1.11:/share/homes/admin/projects/EAGLE;sync;nas
-/Users/oszura/GraphicsProjects;admin@192.168.1.11:/share/homes/admin/projects/GraphicsProjects;backup;nas
-/Users/oszura/GoProProjects;admin@192.168.1.11:/share/homes/admin/projects/GoProProjects;backup;nas
-/Users/oszura/Pictures/Biblioteka Zdjęcia.photoslibrary/Masters;admin@192.168.1.11:/share/Multimedia/oskar/images;backup;assets;
+/Users/oszura/gowork/;admin@192.168.2.230:/share/homes/admin/projects/gowork;sync;nas
+/Users/oszura/WebstormProjects/;admin@192.168.2.230:/share/homes/admin/projects/WebstormProjects;sync;nas
+/Users/oszura/Documents/EAGLE/projects;admin@192.168.2.230:/share/homes/admin/projects/EAGLE;sync;nas
+/Users/oszura/GraphicsProjects;admin@192.168.2.230:/share/homes/admin/projects/GraphicsProjects;backup;nas
+/Users/oszura/GoProProjects;admin@192.168.2.230:/share/homes/admin/projects/GoProProjects;backup;nas
+/Users/oszura/Pictures/Biblioteka Zdjęcia.photoslibrary/Masters;admin@192.168.2.230:/share/Multimedia/oskar/images;backup;assets
